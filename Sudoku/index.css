@@ -1,0 +1,16 @@
+#grid{
+    display: grid;
+    grid-template-columns: repeat(9,40px);
+    grid-template-rows: repeat(9,40px);
+}
+#insideSDK{
+    padding-top: 7px;
+    padding-left: 12px;
+    font-size: 25px;
+    font-weight: bold;
+}
+#btn{
+    height: 30px;
+    font-weight: bold;
+    font-size: 20px;
+}
